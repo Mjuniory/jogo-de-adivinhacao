@@ -12,3 +12,7 @@ Geração aleatória de números.
 - Contador de tentativas.
 
 - Interface simples e intuitiva, estilizada com CSS.
+
+  
+## Autor
+Manuel Júnior – [Mjuniory](https://github.com/Mjuinory)
